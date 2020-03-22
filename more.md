@@ -1,4 +1,4 @@
-*UPDATE: 2020-03-21 00:46* 
+*UPDATE: 2020-03-22 12:10* 
 
 （因为 VPN 性质，需要经常换地址，如果下列地址失效，请在[评论区](https://github.com/byenight/byenight/issues)留言，我会及时更新。）
 
