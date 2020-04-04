@@ -35,3 +35,8 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 ### 5 Windows电脑
 
 使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
+
+
+# 一些待验证资源
+
+### [hide me](https://hide.me/en/pricing)
