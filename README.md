@@ -40,3 +40,4 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 # 一些待验证资源
 
 ### [hide me](https://hide.me/en/pricing)
+### [windscribe](https://windscribe.com/download)
