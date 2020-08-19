@@ -1,3 +1,4 @@
 - [Share-SSR-V2ray](https://github.com/selierlin/Share-SSR-V2ray)
 - [Get-Free-SS](https://github.com/maxmeng93/Get-Free-SS)
 - [AutoSSR](https://github.com/voken100g/AutoSSR)
+http://ss.pythonic.life/
