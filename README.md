@@ -44,8 +44,10 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 # 一些待验证资源
 
-### [hide me](https://hide.me/en/pricing)
-### [windscribe](https://windscribe.com/download)
+[hide me](https://hide.me/en/pricing)
+
+[windscribe](https://windscribe.com/download)
+
 https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 
 https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
@@ -54,4 +56,4 @@ https://github.com/bclswl0827/v2ray-heroku
 
 https://github.com/freefq/free
 
-https://github.com/back8/github_selierlin_Share-SSR-V2ray
+https://github.com/selierlin/Share-SSR-V2ray
