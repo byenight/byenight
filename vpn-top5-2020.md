@@ -1,4 +1,3 @@
-```
 本期的影片主要跟大家推荐大方心目中全球排名前5的免费的VPN，非常好用，关键是免费的可以使用。
 这个排名主要通过使用VPN软件的可支持的系统、可链接的节点数、免费的流量、免费时长来综合排名
 0:00 开场白
@@ -13,8 +12,6 @@ website：https://windscribe.com
 免费节点数：10条
 推荐指数：❤️❤️❤️❤️❤️
 
-
-
 03:23 Top2：ProtonVPN
 website：https://protonvpn.com
 总部位于瑞士
@@ -26,8 +23,6 @@ website：https://protonvpn.com
 免费节点数：3条
 推荐指数：❤️❤️❤️❤️❤️
 
-
-
 07:05 Top3：Speedify
 website：https://speedify.com
 这是一家位于美国的公司，Speedify每个月为您提供5GB的免费数据，该数据每30天刷新一次。
@@ -37,7 +32,6 @@ website：https://speedify.com
 免费流量：2G/月
 免费节点数：10条
 推荐指数：❤️❤️❤️
-
 
 08:57 Top4：TunnelBear
 website：https://www.tunnelbear.com
@@ -52,30 +46,9 @@ website：https://www.tunnelbear.com
 免费节点数：10条
 推荐指数：❤️❤️❤️❤️
 
-
 10:42 Top5：Hide.me
 官网：https://hide.me
 免费时长：一个月（可延长）
 免费流量：10G/月
 免费节点数：4条
 推荐指数：❤️
-
-12:06 5款可以免费使用的VPN 横向对比
-=========================================
-【注册谷歌云获取350美金快捷通道】  https://console.cloud.google.com/free... 有額外50美金喔！
-我的电报：bigfangfang
-电报群交流群：https://t.me/dafangbigfang
-电报频道：https://t.me/dafangbigfangC
-E-mail：DaFangBigFang@gmail.com
-facebook：https://www.facebook.com/dafangbigfang
-twitter：dafangbigfang
-IG：dafang_bigfang
-wix站：https://bigfang.wixsite.com/mysite
-----------------------------------------------------------------
-我在使用的影片拍攝器材：
-📷 正在使用的4K相機             ‣‣ https://amzn.to/3ahIIrh
-📷 正在用的镜头                      ‣‣ https://amzn.to/2y54Iap
-🎤 麥克風                                  ‣‣ https://amzn.to/3bn37v0
-🎥 三腳架                                  ‣‣ https://amzn.to/2QGVx6I
-
-```
