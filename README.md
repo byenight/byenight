@@ -52,10 +52,6 @@ https://ibcl.us/Heroku-V2Ray_20191014/
 
 # 一些待验证资源
 
-[hide me](https://hide.me/en/pricing)
-
-[windscribe](https://windscribe.com/download)
-
 https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 
 https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
