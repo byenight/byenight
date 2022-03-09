@@ -42,6 +42,14 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 [AStar VPN](https://get.astarvpn.app) 支持 Chrome、安卓。
 
+# 资源链接
+
+https://github.com/selierlin/Share-SSR-V2ray
+
+# 部署
+
+https://ibcl.us/Heroku-V2Ray_20191014/
+
 # 一些待验证资源
 
 [hide me](https://hide.me/en/pricing)
@@ -51,9 +59,3 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 
 https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
-
-https://github.com/bclswl0827/v2ray-heroku
-
-https://github.com/freefq/free
-
-https://github.com/selierlin/Share-SSR-V2ray
