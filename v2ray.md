@@ -18,4 +18,8 @@
 - [FreeV2ray](https://view.freev2ray.org) 因为代理服务器不稳定，会被封或挂机，这个网站每12小时更新一次，如果发现不能用了可以再重新来添加。
 - [FreeSS](https://io.freess.info/#portfolio-preview) 提供了6个免费服务器，可以挨着试，个人感觉没有上面那个好用。
 
+免费订阅
+
+- https://github.com/freefq/free
+
 > 更多免费资源，本站会持续更新。如果地址失效，请在[评论区](https://github.com/byenight/byenight/issues)留言。另外，大家也可以花钱购买V2Ray的服务器资源。
