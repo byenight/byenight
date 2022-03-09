@@ -24,6 +24,8 @@
 
 Sky加速器可以每天免费使用2小时。有部分网络的用户可能用这个工具无效。可以尝试使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
 
+美区下载[VPN-夏时国际加速器VPN](https://apps.apple.com/uz/app/vpn-%E5%A4%8F%E6%97%B6%E5%9B%BD%E9%99%85%E5%8A%A0%E9%80%9F%E5%99%A8vpn/id1544742935)：免费有广告。
+
 ### 3 安卓手机
 
 使用每天免费2小时的[Sky加速器](https://d.wjsq.life)。有部分网络的用户可能用这个工具无效。可以尝试使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
