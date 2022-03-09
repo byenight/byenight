@@ -46,7 +46,7 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 https://github.com/byenight/byenight/more.md
 
-# 资源链接
+# ★ 资源链接
 
 https://github.com/selierlin/Share-SSR-V2ray
 
