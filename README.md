@@ -61,7 +61,7 @@ https://ibcl.us/Heroku-V2Ray_20191014/
 - https://github.com/maxmeng93/Get-Free-SS
 - https://github.com/voken100g/AutoSSR
 - http://ss.pythonic.life
-- https://blog.ccswust.org/ss-panel\
+- https://blog.ccswust.org/ss-panel
 - https://www.ddjiasu.net
 - https://www.ddjiasu.me
 - [凿壁借光の书签](http://www.okss.xyz) 
@@ -71,9 +71,13 @@ https://ibcl.us/Heroku-V2Ray_20191014/
 - https://xbsj2671.space
 - https://renzhe.cloud
 
-<p><strong>CTcloud</strong>（<strong>次推荐</strong>）：免费注册有1G流量，每天签到可以获得流量，有视频线路节点和游戏线路节点，延迟很低，非常不错。<br>CTcloud官方网站：<a href="https://blog.ccswust.org/go/?url=aHR0cHM6Ly9jdGNsb3VkLmNvLw==" target="_blank" rel="noopener noreferrer">https://ctcloud.co/</a></p>
+<p><strong>CTcloud</strong>（<strong>次推荐</strong>）：免费注册有1G流量，每天签到可以获得流量，有视频线路节点和游戏线路节点，延迟很低，非常不错。
+CTcloud官方网站：
+https://ctcloud.co
 
-<p><strong>HKssr（次推荐）</strong>：免费注册流量有100MB，通过每天签到可以获得流量，需要邀请码申请<br>HKssr官方网站：<a href="https://blog.ccswust.org/go/?url=aHR0cHM6Ly9zLmhrc3NyLmNsdWIv" target="_blank" rel="noopener noreferrer">https://s.hkssr.club/</a><br>申请邀请码：（用完没有）<br>iYshotHHx4kkwQyRVb2cuGY8<br>k3cXPeFpuFFrMypLYVBeKd9t<br>Ohlz8ZxgHJgmE0hm0Pm5kGO4<br>Q0J4TwazBa8DReuw7vIxWC3H<br>tSNTbUNPuSHIUE77ve7g6B1A</p>
+<p><strong>HKssr（次推荐）</strong>：免费注册流量有100MB，通过每天签到可以获得流量，需要邀请码申请<br>HKssr官方网站：
+https://s.hkssr.club
+申请邀请码：（用完没有）<br>iYshotHHx4kkwQyRVb2cuGY8<br>k3cXPeFpuFFrMypLYVBeKd9t<br>Ohlz8ZxgHJgmE0hm0Pm5kGO4<br>Q0J4TwazBa8DReuw7vIxWC3H<br>tSNTbUNPuSHIUE77ve7g6B1A</p>
 
 <p><strong>纸飞机</strong>（<strong>次推荐</strong>）：快速智能上网，流量中继。（刚注册有50G免费流量，你可以通过每日签到获取流量补充，免费用户只有目前三个节点可用，目前无需邀请码注册）。<br>纸飞机 官方网站：<a href="https://blog.ccswust.org/go/?url=aHR0cHM6Ly93d3cuemhpZmVpamkubWVuLw==" target="_blank" rel="noopener noreferrer">https://www.zhifeiji.men</a></p>
 
