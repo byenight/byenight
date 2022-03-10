@@ -37,11 +37,15 @@
 
 - https://ibcl.us/Heroku-V2Ray_20191014/
 
+# 5. 废弃资源
+
+- ~~https://github.com/fqshare/free-ssr-v2ray-vpn~~
+- ~~http://ss.pythonic.life~~
+
 # 5. 一些待验证资源
 
-- https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
-- http://ss.pythonic.life
+- https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 - https://blog.ccswust.org/ss-panel
 - https://www.ddjiasu.net
 - https://www.ddjiasu.me
