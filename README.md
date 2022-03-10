@@ -45,6 +45,7 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 # 3. 资源链接 ★
 
 - https://github.com/selierlin/Share-SSR-V2ray
+- https://github.com/voken1/AutoSSR
 - ~~https://github.com/maxmeng93/Get-Free-SS~~
 
 # 4. 部署
@@ -55,7 +56,6 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
-- https://github.com/voken100g/AutoSSR
 - http://ss.pythonic.life
 - https://blog.ccswust.org/ss-panel
 - https://www.ddjiasu.net
@@ -63,22 +63,18 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 - [凿壁借光の书签](http://www.okss.xyz) 
 - https://xbsj562.space
 - https://westworldss.club
-- 2046ss.website
+- http://2046ss.website
 - https://xbsj2671.space
 - https://renzhe.cloud
-
-CTcloud（次推荐）：免费注册有1G流量，每天签到可以获得流量，有视频线路节点和游戏线路节点，延迟很低，非常不错。 CTcloud官方网站： https://ctcloud.co
-
-HKssr（次推荐）：免费注册流量有100MB，通过每天签到可以获得流量，需要邀请码申请
-HKssr官方网站： https://s.hkssr.club 申请邀请码：（用完没有）
-iYshotHHx4kkwQyRVb2cuGY8
-k3cXPeFpuFFrMypLYVBeKd9t
-Ohlz8ZxgHJgmE0hm0Pm5kGO4
-Q0J4TwazBa8DReuw7vIxWC3H
-tSNTbUNPuSHIUE77ve7g6B1A
-
-纸飞机（次推荐）：快速智能上网，流量中继。（刚注册有50G免费流量，你可以通过每日签到获取流量补充，免费用户只有目前三个节点可用，目前无需邀请码注册）。
-纸飞机 官方网站：https://www.zhifeiji.men
+- https://ctcloud.co
+- https://s.hkssr.club
+  申请邀请码：（用完没有）
+  iYshotHHx4kkwQyRVb2cuGY8
+  k3cXPeFpuFFrMypLYVBeKd9t
+  Ohlz8ZxgHJgmE0hm0Pm5kGO4
+  Q0J4TwazBa8DReuw7vIxWC3H
+  tSNTbUNPuSHIUE77ve7g6B1A
+- https://www.zhifeiji.men
 
 阔则（次推荐）：注册就有197积分和2g流量，可免费使用3天，通过积分换可流量。
 官方网站申请：https://www.kuozir.com
