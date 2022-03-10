@@ -35,20 +35,19 @@
 
 # 4. 部署
 
-- https://ibcl.us/Heroku-V2Ray_20191014/
+- https://ibcl.us/Heroku-V2Ray_20191014
+- [搭建SS-Panel](https://blog.ccswust.org/ss-panel)
 
 # 5. 废弃资源
 
 - ~~https://github.com/fqshare/free-ssr-v2ray-vpn~~
 - ~~http://ss.pythonic.life~~
+- ~~[叮当加速](https://www.ddjiasu.net) [叮当加速](https://www.ddjiasu.me)~~
 
 # 5. 一些待验证资源
 
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
-- https://blog.ccswust.org/ss-panel
-- https://www.ddjiasu.net
-- https://www.ddjiasu.me
 - [凿壁借光の书签](http://www.okss.xyz) 
 - https://xbsj562.space
 - https://westworldss.club
