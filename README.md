@@ -1,4 +1,4 @@
-# 如何科学上网
+# 1. 如何科学上网
 
 > *UPDATE: 2020-03-22 16:30* 
 
@@ -42,19 +42,19 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 [AStar VPN](https://get.astarvpn.app) 支持 Chrome、安卓。
 
-# 进阶：更多VPN
+# 2. 进阶：更多VPN
 
 https://github.com/byenight/byenight/more.md
 
-# ★ 资源链接
+# 3. 资源链接 ★
 
 https://github.com/selierlin/Share-SSR-V2ray
 
-# 部署
+# 4. 部署
 
 https://ibcl.us/Heroku-V2Ray_20191014/
 
-# 一些待验证资源
+# 5. 一些待验证资源
 
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
