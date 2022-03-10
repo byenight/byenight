@@ -17,9 +17,9 @@
 
 有部分网络的用户可能用这个工具无效。可以尝试使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
 
-### 电脑上翻墙浏览网页
+**电脑上翻墙浏览网页**
 
-这个最简单，建议使用[Chrome浏览器](https://www.google.cn/chrome/)，有个非常好用的插件[SetupVPN](https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp)，只需要安装插件就可以，每天可以免费使用2小时。
+如果你知识想在电脑上看网页，建议使用[Chrome浏览器](https://www.google.cn/chrome/)，有个非常好用的插件[SetupVPN](https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp)，只需要安装插件就可以，每天可以免费使用2小时。
 
 - 当然，安装Chrome插件也需要科学上网。我提供了一个[离线安装包](https://baseserver.io/sv/public/Chrome/)，下载最新版本，安装方法如下：
 
