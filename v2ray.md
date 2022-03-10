@@ -21,5 +21,6 @@
 免费订阅
 
 - https://github.com/freefq/free
+- https://github.com/voken1/AutoSSR
 
 > 更多免费资源，本站会持续更新。如果地址失效，请在[评论区](https://github.com/byenight/byenight/issues)留言。另外，大家也可以花钱购买V2Ray的服务器资源。
