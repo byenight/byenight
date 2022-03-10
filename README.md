@@ -44,12 +44,12 @@
 - ~~https://github.com/fqshare/free-ssr-v2ray-vpn~~
 - ~~http://ss.pythonic.life~~
 - ~~[叮当加速](https://www.ddjiasu.net) [叮当加速](https://www.ddjiasu.me)~~
+- ~~[已挂][凿壁借光の书签](http://www.okss.xyz) [T](https://twitter.com/zaobitouguang)~~
 
-# 5. 一些待验证资源
+# 6. 一些待验证资源
 
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
-- [凿壁借光の书签](http://www.okss.xyz) 
 - https://xbsj562.space
 - https://westworldss.club
 - http://2046ss.website
