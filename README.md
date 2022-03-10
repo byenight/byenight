@@ -34,6 +34,7 @@
 - https://github.com/selierlin/Share-SSR-V2ray
 - https://github.com/voken1/AutoSSR
 - ~~https://github.com/maxmeng93/Get-Free-SS~~
+- ~~[收费]https://renzhe.cloud~~
 
 # 4. 部署
 
