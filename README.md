@@ -29,6 +29,7 @@
 
 # 3. 资源链接 ★
 
+- 机场：[纸飞机](https://zfjvpn.gitbook.io/123) [t](https://t.me/zhifeijiss)
 - 机场：[几鸡](https://b.luxury/waf/breU4QI4JBMyHj7C2) 注册送10G。
 - https://github.com/selierlin/Share-SSR-V2ray
 - https://github.com/voken1/AutoSSR
@@ -44,26 +45,13 @@
 - ~~https://github.com/fqshare/free-ssr-v2ray-vpn~~
 - ~~http://ss.pythonic.life~~
 - ~~[叮当加速](https://www.ddjiasu.net) [叮当加速](https://www.ddjiasu.me)~~
-- ~~[已挂][凿壁借光の书签](http://www.okss.xyz) [T](https://twitter.com/zaobitouguang)~~
+- ~~[已挂][凿壁借光の书签](http://www.okss.xyz) [TW](https://twitter.com/zaobitouguang)~~
+- ~~[收费][西部世界](https://sjssr.fun) [t](https://t.me/westworldss) 免费3天~~
 
 # 6. 一些待验证资源
 
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
-- https://xbsj562.space
-- https://westworldss.club
-- http://2046ss.website
-- https://xbsj2671.space
-- https://renzhe.cloud
-- https://ctcloud.co
-- https://s.hkssr.club
-  申请邀请码：（用完没有）
-  iYshotHHx4kkwQyRVb2cuGY8
-  k3cXPeFpuFFrMypLYVBeKd9t
-  Ohlz8ZxgHJgmE0hm0Pm5kGO4
-  Q0J4TwazBa8DReuw7vIxWC3H
-  tSNTbUNPuSHIUE77ve7g6B1A
-- https://www.zhifeiji.men
 
 阔则（次推荐）：注册就有197积分和2g流量，可免费使用3天，通过积分换可流量。
 官方网站申请：https://www.kuozir.com
