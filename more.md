@@ -21,7 +21,7 @@
 
 #### 1 跨平台
 - [SetupVPN](http://desktopclient.net/gw/index.html#/setupvpn) 提供了Mac、Win、Android客户端，还有方便的[Chrome插件](https://chrome.google.com/webstore/detail/setupvpn-lifetime-free-vp/oofgbpoabipfcfjapgnbbjjaenockbdp)。
-- [W加速器](http://139.162.65.156) [备用地址](http://wjsq.me) 强烈推荐
+- [W加速器](http://a.wjsq.info) [备用地址](http://139.162.65.156) [备用地址](http://wjsq.me) 强烈推荐，每天免费1小时
 - [sGreen VPN](https://github.com/newbreedlimited/sgreenvpn) 感觉像是山寨了当年的 Green，每天免费 200 M，支持Win、iOS、Android。
 - [vyprVPN](https://www.goldenfrog.com/zh/vyprvpn) 支持支持Win、Mac、iOS、Android，3天免费。
 - [坚果VPN](https://www.nutsvpn.pro) 每日签到可免费15分钟。
