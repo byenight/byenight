@@ -20,6 +20,9 @@
 如果你知识想在电脑上看网页，建议使用[Chrome浏览器](https://www.google.cn/chrome/)，安装插件：
 
 - [SetupVPN](https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp)，每天可以免费使用2小时。
+- [AdGuard VPN](https://chrome.google.com/webstore/detail/adguard-vpn-%E2%80%94-privacy-sec/hhdobjgopfphlmjbmnpglhfcgppchgje) 每月3G。
+- ~~[Free VPN for Chrome - VPN Proxy VeePN
+](https://chrome.google.com/webstore/detail/free-vpn-for-chrome-vpn-p/majdfhpaihoncoakbjgbdhglocklcgno)~~
 
 - 当然，安装Chrome插件也需要科学上网。
 
