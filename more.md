@@ -72,3 +72,7 @@
 #### 6 Linux
 
 还没有找到好用的傻瓜式工具。
+
+#### 7 Chrome插件
+
+- ~~[Astar VPN](https://chrome.google.com/webstore/detail/astar-vpn-free-and-fast-v/jajilbjjinjmgcibalaakngmkilboobh)~~
