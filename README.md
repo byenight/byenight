@@ -48,46 +48,15 @@
 - ~~[叮当加速](https://www.ddjiasu.net) [叮当加速](https://www.ddjiasu.me)~~
 - ~~[已挂][凿壁借光の书签](http://www.okss.xyz) [TW](https://twitter.com/zaobitouguang)~~
 - ~~[收费][西部世界](https://sjssr.fun) [t](https://t.me/westworldss) 免费3天~~
-
+- ~~[已挂][阔则](https://www.kuozir.com)~~
+- ~~[已挂][SSR酒馆](https://ssr.pub)~~
+- ~~[已挂][依米](https://pro.eimi.me)~~
+- ~~[已挂][折纸](http://origamissr.com)~~
+- ~~[已挂][928VPN](https://panel.928jsq.club)~~
+- ~~[已挂][小莫云](http://javami.cn)~~
+- ~~[已挂][52ssr](https://52ssr.cn)~~
+- 
 # 6. 一些待验证资源
 
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
-
-阔则（次推荐）：注册就有197积分和2g流量，可免费使用3天，通过积分换可流量。
-官方网站申请：https://www.kuozir.com
-邀请码：C6EE537723A0 、B8EA88AE3EF8 、CA186140206C（通过邀请码注册可多获得5G流量）
-
-SSR酒馆（次推荐）：快速智能上网，流量中继。（刚注册有100mb左右免费流量，你可以通过每日签到获取流量补充，免费用户只有目前一个节点可用，目前无需邀请码注册）。
-SSR酒馆 官方网站：https://ssr.pub/
-
-依米：（次推荐）快速智能上网，免费流量中继。（新注册用户免费试用部分VIP线路72小时1G流量。3天之后赠送10G流量，转为免费用户。免费用户每7天内需签到1次，忘记签到会停用账户，付费用户无需签到）https://pro.eimi.me/
-
-折纸（次推荐）：免费注册拥有24小时1G初始流量，每天签到获得流量，没有免费节点 所以只能用一天。折纸 官方网站申请链接：http://origamissr.com
-
-928VPN（过了2天试用期，需要花钱购买会员才能使用。专为视频和游戏发烧友服务）：每个新用户均可获得免费全功能2天2G试用，保证满意。除此之外，可以选择充值成为会员。另外每12小时登入一次网站，就能获得500-1500不等的积分，积分可以1:1兑换流量哦~
-928VPN 官方网站： https://panel.928jsq.club
-邀请码： 9F1FDE45A267、4C9B6B42B38E、DDBAEBDC10B6、E2A1FEC65970、A2E25E3E76B7（通过邀请码注册可多获得5G流量）
-
-小莫云（可以注册玩玩）：刚注册可获得0.2元，每天签到可以获得0.1元。通过搭建代理站来实现
-小莫云官方网站：http://javami.cn/
-
-52ssr我爱酸酸乳（推荐,经典网站）：免费ssr节点分享，经典稳定靠谱的中继站！
-https://52ssr.cn/（52ssr官网）
-http://www.52ssr.pw/（需要邀请码注册且邀请码需要花钱购买，或许你也可以等开放注册活动）免费中继站
-
-ssrpink（需要花钱）：免费上网冲浪，链接快速的网络流量机场（注册用户第一天可以享受1个小时的vip权限，只有vip才有可用节点，所以只能试用。刚注册有1G的流量，可以通过签到获得更多流量，但只允许1个设备连接）。
-http://www.ssrpink.cc/auth/register?code=SSmEzqx3bJMbt5bWQ21gNttgVzNmMXWb（邀请链接）
-
-城市之光（需要花钱）：快速智能上网，youtube 4k流畅。（免费注册用户无可用节点，刚注册有1G免费流量，限制2个设备登录。免费用户你可以通过每日签到获取100-200mb的流量补充，需要填入邀请码注册）。
-
-邀请码：DLM0VQ41Ec7Qokn889bbCmrz7VsMqq7X
-zczJGSWyHfxRxJFfl5ziIh9QDwQjEJ2N
-ISg7iceHLF7ixMwaFptKMNxfGW1blqYd
-f8Mr4ZFYgR3L0wRaEWNK60fpIp1aQSvu
-m8VgKdqjYHJqifLHEHsh1bmeWcTjRUEz
-yVKExfTedCWRKChrB1Xdyet0cckKDimP
-fk1ge2aPecVQrt3Fp2PaGQAYZG8dnCqK
-pDPbwGhslB31eUHvbm9EYK7ykhCmNs5a
-CT13Y3zyHDaQV28qGVo56SrneBeGKcV6
-PjqxQSIaRy3lrWmonveZ9nh8ODjt1kbC
