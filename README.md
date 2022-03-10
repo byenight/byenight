@@ -29,6 +29,7 @@
 
 # 3. 资源链接 ★
 
+- 机场：[几鸡](https://b.luxury/waf/breU4QI4JBMyHj7C2) 注册送10G。
 - https://github.com/selierlin/Share-SSR-V2ray
 - https://github.com/voken1/AutoSSR
 - ~~https://github.com/maxmeng93/Get-Free-SS~~
