@@ -17,11 +17,11 @@
 
 **电脑上翻墙浏览网页**
 
-如果你知识想在电脑上看网页，建议使用[Chrome浏览器](https://www.google.cn/chrome/)，有个非常好用的插件[SetupVPN](https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp)，只需要安装插件就可以，每天可以免费使用2小时。
+如果你知识想在电脑上看网页，建议使用[Chrome浏览器](https://www.google.cn/chrome/)，安装插件：
 
-- 当然，安装Chrome插件也需要科学上网。我提供了一个[离线安装包](https://baseserver.io/sv/public/Chrome/)，下载最新版本，安装方法如下：
+- [SetupVPN](https://chrome.google.com/webstore/detail/oofgbpoabipfcfjapgnbbjjaenockbdp)，每天可以免费使用2小时。
 
-> 在Chrome浏览器菜单中打开“更多工具→扩展程序”，打开右上角“开发者模式”，将下载的文件拖入浏览器的界面即可。（还搞不懂可以百度“Chrome安装离线扩展”）
+- 当然，安装Chrome插件也需要科学上网。
 
 # 2. 进阶：更多VPN
 
