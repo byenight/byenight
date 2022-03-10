@@ -40,7 +40,7 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 # 2. 进阶：更多VPN
 
-https://github.com/byenight/byenight/more.md
+https://github.com/byenight/byenight/blob/master/more.md
 
 # 3. 资源链接 ★
 
