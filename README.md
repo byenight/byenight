@@ -36,25 +36,25 @@ Sky加速器可以每天免费使用2小时。有部分网络的用户可能用�
 
 ### 5 Windows电脑
 
-使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
+- 使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
 
 # 2. 进阶：更多VPN
 
-https://github.com/byenight/byenight/blob/master/more.md
+- https://github.com/byenight/byenight/blob/master/more.md
 
 # 3. 资源链接 ★
 
-https://github.com/selierlin/Share-SSR-V2ray
+- https://github.com/selierlin/Share-SSR-V2ray
+- ~~https://github.com/maxmeng93/Get-Free-SS~~
 
 # 4. 部署
 
-https://ibcl.us/Heroku-V2Ray_20191014/
+- https://ibcl.us/Heroku-V2Ray_20191014/
 
 # 5. 一些待验证资源
 
 - https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
 - https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
-- https://github.com/maxmeng93/Get-Free-SS
 - https://github.com/voken100g/AutoSSR
 - http://ss.pythonic.life
 - https://blog.ccswust.org/ss-panel
