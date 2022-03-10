@@ -25,6 +25,7 @@
 - [sGreen VPN](https://github.com/newbreedlimited/sgreenvpn) 感觉像是山寨了当年的 Green，每天免费 200 M，支持Win、iOS、Android。
 - [vyprVPN](https://www.goldenfrog.com/zh/vyprvpn) 支持支持Win、Mac、iOS、Android，3天免费。
 - [坚果VPN](https://www.nutsvpn.pro) 每日签到可免费15分钟。
+- [AStar VPN](https://get.astarvpn.app) 支持 Chrome、安卓。
 - <del datetime="2019-11-07">[鲸鱼-](https://www.jingyu2345.com) 收费</del>
 - <del datetime="2018-06-02T06:55:59+00:00">[Xroute](https://www.xroute.club) 支持Win、Mac，并且可以在手机上使用，但是通过Windows试了几个免费都不行。</del>
 - <del datetime="2019-02-26T09:10:43+00:00">[狸猫加速器](https://www.ailimaovpn6.com) [备用链接](https://www.ailimaovpn7.com/) 支持Win、Mac、iOS、Android，28元/月，每天签到可以免费使用1次连接</del>
