@@ -11,8 +11,6 @@
   
 **关于iOS**
 
-大家知道苹果手机下载App都要去AppStore，AppStore是分国家的，中国区的商店里面几乎难找到这种工具，所以通常需要注册美国区账号。注册国外账号很麻烦，这有一个简单的App直接给了可用的账号：[Sky加速器](https://d.skyjsq.space)
-
 另，美区下载[VPN-夏时国际加速器VPN](https://apps.apple.com/uz/app/vpn-%E5%A4%8F%E6%97%B6%E5%9B%BD%E9%99%85%E5%8A%A0%E9%80%9F%E5%99%A8vpn/id1544742935)：免费有广告。
 
 有部分网络的用户可能用这个工具无效。可以尝试使用[V2ray](https://github.com/byenight/byenight/blob/master/v2ray.md)。
