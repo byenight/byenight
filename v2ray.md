@@ -1,4 +1,4 @@
-# 使用V2Ray科学上网
+# 1. 使用V2Ray科学上网
 
 > *UPDATE: 2020-03-22 17:00*
 
@@ -18,9 +18,40 @@
 - [FreeV2ray](https://view.freev2ray.org) 因为代理服务器不稳定，会被封或挂机，这个网站每12小时更新一次，如果发现不能用了可以再重新来添加。
 - [FreeSS](https://io.freess.info/#portfolio-preview) 提供了6个免费服务器，可以挨着试，个人感觉没有上面那个好用。
 
-免费订阅
+### 免费订阅 ★
 
 - https://github.com/freefq/free
 - https://github.com/voken1/AutoSSR
+- 机场：[纸飞机](https://zfjvpn.gitbook.io/123) [t](https://t.me/zhifeijiss)
+- 机场：[几鸡](https://b.luxury/waf/breU4QI4JBMyHj7C2) 注册送10G。
+- https://github.com/selierlin/Share-SSR-V2ray
+- https://github.com/voken1/AutoSSR
+- ~~https://github.com/maxmeng93/Get-Free-SS~~
+- ~~[收费]https://renzhe.cloud~~
 
 > 更多免费资源，本站会持续更新。如果地址失效，请在[评论区](https://github.com/byenight/byenight/issues)留言。另外，大家也可以花钱购买V2Ray的服务器资源。
+
+# 2. 部署
+
+- https://ibcl.us/Heroku-V2Ray_20191014
+- [搭建SS-Panel](https://blog.ccswust.org/ss-panel)
+
+# 3. 废弃资源
+
+- ~~https://github.com/fqshare/free-ssr-v2ray-vpn~~
+- ~~http://ss.pythonic.life~~
+- ~~[叮当加速](https://www.ddjiasu.net) [叮当加速](https://www.ddjiasu.me)~~
+- ~~[已挂][凿壁借光の书签](http://www.okss.xyz) [TW](https://twitter.com/zaobitouguang)~~
+- ~~[收费][西部世界](https://sjssr.fun) [t](https://t.me/westworldss) 免费3天~~
+- ~~[已挂][阔则](https://www.kuozir.com)~~
+- ~~[已挂][SSR酒馆](https://ssr.pub)~~
+- ~~[已挂][依米](https://pro.eimi.me)~~
+- ~~[已挂][折纸](http://origamissr.com)~~
+- ~~[已挂][928VPN](https://panel.928jsq.club)~~
+- ~~[已挂][小莫云](http://javami.cn)~~
+- ~~[已挂][52ssr](https://52ssr.cn)~~
+
+# 4. 一些待验证资源
+
+- https://awesomeopensource.com/project/fqshare/free-ssr-v2ray-vpn
+- https://github.com/byenight/byenight/blob/master/vpn-top5-2020.md
