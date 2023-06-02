@@ -1,12 +1,12 @@
 # 1. 如何科学上网
 
-> *UPDATE: 2022-03-10 16:30* 
+> *UPDATE: 2023-06-03 16:30* 
 
 - 本文只介绍免费的方式
 
 ### 当前推荐最简单的方式
 
-使用每天免费2小时的[Sky加速器](https://d.wjsq.info)
+使用每天免费1小时的[Sky加速器](https://a.wjsq.info)
   支持Mac、iOS、Android、Windows。
   
 **关于iOS**
