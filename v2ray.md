@@ -18,7 +18,11 @@
 - [FreeV2ray](https://view.freev2ray.org) 因为代理服务器不稳定，会被封或挂机，这个网站每12小时更新一次，如果发现不能用了可以再重新来添加。
 - [FreeSS](https://io.freess.info/#portfolio-preview) 提供了6个免费服务器，可以挨着试，个人感觉没有上面那个好用。
 
-### 免费订阅 ★
+**免费资源不稳定，如果上网需求大，可以买一个便宜的服务：**
+
+推荐 [GreenNode](https://cp.greennode.net/users/aff.php?aff=3485)，每月1.5美元(≈10RMB)，还有0.2美元(≈1.4RMB)5天套餐。
+
+### 其他免费资源（可能需要你花点时间去研究尝试） ★
 
 - https://github.com/freefq/free
 - https://github.com/voken1/AutoSSR
