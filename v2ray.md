@@ -20,7 +20,7 @@
 
 **免费资源不稳定，如果上网需求大，可以买一个便宜的服务：**
 
-推荐 [GreenNode](https://cp.greennode.net/users/aff.php?aff=3485)，每月1.5美元(≈10RMB)，还有0.2美元(≈1.4RMB)5天套餐。
+推荐 [GreenNode](https://cp.greennode.net/users/aff.php?aff=3485)，每月1.5美元(≈10RMB)，还有0.2美元(≈1.4RMB)5天使用套餐。
 
 ### 其他免费资源（可能需要你花点时间去研究尝试） ★
 
