@@ -16,8 +16,8 @@
 第二个条件，我们安装好之后，每个软件里面都有添加代理（服务器）的选项，我们需要去找免费的代理服务器资源，通过**扫二维码或者添加链接**的方式添加到你的客户端里。这里提供了一些靠谱的服务器资源：
 
 - [极简云](https://jjyun.icu/#/register?code=EeU9GNRW) 2024-11-22 验证可用
-- ~~[FreeV2ray](https://view.freev2ray.org) ~~
-- ~~[FreeSS](https://io.freess.info/#portfolio-preview) ~~
+- ~~[FreeV2ray](https://view.freev2ray.org)~~
+- ~~[FreeSS](https://io.freess.info/#portfolio-preview)~~
 
 **免费资源不稳定，如果上网需求大，可以买一个便宜的服务：**
 
