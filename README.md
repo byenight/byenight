@@ -6,8 +6,8 @@
 
 ### 当前推荐最简单的方式
 
-使用每天免费1小时的[Sky加速器](https://a.wjsq.info)
-  支持Mac、iOS、Android、Windows。
+~~使用每天免费1小时的[Sky加速器](https://a.wjsq.info)~~
+~~支持Mac、iOS、Android、Windows。【停止服务】~~
   
 **关于iOS**
 
